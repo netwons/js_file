@@ -1,2 +1,2 @@
-https://contributor.redecor.com/blank
-https://www.redecor.com/embed
+https://contributor.redecor.com/blank    dom xss
+https://www.redecor.com/embed     postmessage
