@@ -1,2 +1,3 @@
 https://contributor.redecor.com/blank    dom xss
 https://www.redecor.com/embed     postmessage
+https://www.redditmedia.com/gtm/jail    xss
