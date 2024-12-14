@@ -1,3 +1,4 @@
 https://contributor.redecor.com/blank    dom xss
 https://www.redecor.com/embed     postmessage
 https://www.redditmedia.com/gtm/jail    xss
+https://backoffice-staging.018019535749.hellopublic.com/v2/#!/login  js monitor
