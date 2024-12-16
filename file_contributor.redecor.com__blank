@@ -1,27 +1,10 @@
-<html>
-
-<head>
-<title>ServiceNow - Transform I.T.</title>
-</head>
-
-<body bgcolor="gray">
-<br><br><br><br><br><br>
-
-<table width="30%" align="center" style="background-color: #ffffff;" cellpadding="20">
-<tr>
-<td>
-<font face="Arial">
-In order to comply with US trade controls, we are required to block access from US embargoed countries.  It appears that you are located in one of these countries.  If you believe you have reached this page in error, please contact customer support and reference error code "u5a". Thank you.
-<br><br>For more information, see: <a href="http://www.bis.doc.gov/index.php/policy-guidance/country-guidance/sanctioned-destinations">US Country Policies and Embargoes</a><br><br>
-<a href="http://wiki.service-now.com/index.php?title=Technical_Support">ServiceNow Technical Support</a><br><br>
-Toll Free 866-709-5932 (from within the US and Canada)<br>
-Toll Free 0800 756 9901 (from within the UK)<br>
-Or +1-858-345-1444 from anywhere
-</font>
-<br><br>
-</td>
-</tr>
-</table>
-</body>
-
-</html>
+<html><head><title></title><script type="text/javascript">function _blankLoad() {
+      var h = document.location.href;
+      // element_id used by htmlarea.js
+      var i = h.indexOf('sysparm_element_id=');
+      if (i > -1) {
+        var id = h.substring(i + 19);
+		if (window.parent.CustomEvent)
+		  window.parent.CustomEvent.fire('blank.onload', id);
+	  }
+    }</script></head><body onload="_blankLoad();"></body></html>
