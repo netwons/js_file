@@ -2,3 +2,5 @@ https://www.redditmedia.com/gtm/jail
 https://contributor.redecor.com/blank
 https://www.redecor.com/embed
 https://backoffice-staging.018019535749.hellopublic.com/v2/#!/login
+https://hackerone.com/assets/static/main_js-qFTmbyZa.js
+https://hackerone.com/assets/constants-af07a04fd6a535127ae79a9880a05318aa45a8196e2fa616daec6442ce90188a.js
