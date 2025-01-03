@@ -1,6 +1,5 @@
 https://contributor.redecor.com/blank
 https://www.redecor.com/embed
-https://backoffice-staging.018019535749.hellopublic.com/v2/#!/login
 https://test.kovid.signin.aws.amazon.com/assets/js/app.js
 https://advertising.amazon.com/am/managerAccounts/amzn1.ads1.ma1.b2hrcivd3uu3e3y9ks17nxcu1/user/management?entityId=amzn1.ads1.ma1.b2hrcivd3uu3e3y9ks17nxcu1
 https://hackerone.com/assets/static/main_js-qFTmbyZa.js
