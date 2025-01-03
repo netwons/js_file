@@ -1,1 +1,1 @@
-https://test.kovid.signin.aws.amazon.com/assets/js/app.js
+http://test.kovid.signin.aws.amazon.com/assets/js/app.js
