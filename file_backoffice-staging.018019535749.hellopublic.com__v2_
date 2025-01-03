@@ -14,3 +14,19 @@
     <div id="root"></div>
   </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <link rel="manifest" href="manifest.json" />
+    <link rel="shortcut icon" href="icon.png" type="image/png" />
+    <title>Backoffice</title>
+    <script type="module" crossorigin src="./static/index-3GrrRAqa.js"></script>
+    <link rel="stylesheet" crossorigin href="./static/index-DUYpVJXK.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
